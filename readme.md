@@ -1,24 +1,18 @@
-# My Bio Page
+# Abhishek Panjwani
 
-This repository contains a simple bio page created as part of a class assignment. The webpage serves as an introduction to myself, including a brief bio and some information about my web experience.
+![My Picture](./images/myimage.jpg "My Picture")
+![Picture](./images/Picture.jpg "Image that defines me")
+## I am a Strategist.
 
-## Web Experience
+## Where are you from?
 
-I have been learning web development for the past year, focusing on HTML, CSS, and JavaScript. This project is a showcase of my skills in HTML and CSS.
+I am from Indore, Madhya Pradesh-India.
 
-## Project Structure
+## My first Computing Device
+It was a Desktop computer, with [Windows 2000 ME] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiN_I23qZWBAxVRm4kEHaYmDT8QFnoECCcQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWindows_Me&usg=AOvVaw2T1qKLbbPHq8db7QInOmt8&opi=89978449) "Wikipedia article for Windows 2000 ME" installed in in it.
 
-- index.html: The main HTML file containing the content of the bio page.
-- styles.css: The CSS file responsible for styling the bio page.
-- README.md: This file, providing information about the project.
+## Interests
+I love to listen to the music, play musical instruments and Play sports such as Cricket, Chess and Table Tennis.
 
-## Additional Requirements
-
-As a graduate student, I have met the additional requirements for this assignment:
-- Created a GitHub repository and properly set up GitHub Pages.
-- Included an HTML index page with content and a CSS file.
-- Added a README file to the repository for future reference.
-
-## Live Site
-
-The live version of this webpage can be found [here](<insert link to your GitHub Pages site>).
+## Interesting about me.
+I have around 8 years of work experience as a Support Engineer. I have done mutiple certifications such as Hardware & Networking, MCP, CCNA, MCSE, MCP in Azure Administrator and Dell Certification.
