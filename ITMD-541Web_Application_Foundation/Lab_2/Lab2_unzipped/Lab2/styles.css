@@ -21,12 +21,11 @@
 	display: flex;
 	list-style: none;
 	padding: 0;
-	padding-left: 45px;
-	padding-right: 0;
+	padding-left: none;
+	padding-right: none;
 	padding-top: none;
 	padding-bottom: none;
 	margin: 0;
-	margin-left: 0;
 	tab-size: 0;
 	
 }
