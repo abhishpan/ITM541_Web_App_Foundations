@@ -18,6 +18,7 @@
 
 #flex-section2 ul {
 	display: flex;
+	list-style: none;
 }
 
 #flex-section2 li {
