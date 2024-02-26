@@ -53,15 +53,16 @@
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-	display: wrap;
+	display: flex;
 	justify-content: center;
-	align-items: center;
-	height: 100%;	
+	align-items: center;		
 }
 
 #flex-section3 .tags ul {
 	display: flex;
 	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
 	gap: 10px;
 	list-style: none;
 }
