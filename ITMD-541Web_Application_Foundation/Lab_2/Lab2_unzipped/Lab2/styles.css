@@ -55,14 +55,14 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100%;
-	list-style: none;
+	height: 100%;	
 }
 
 #flex-section3 .tags ul {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 10px;
+	list-style: none;
 }
 
 /* end Flexbox Part 3 */
