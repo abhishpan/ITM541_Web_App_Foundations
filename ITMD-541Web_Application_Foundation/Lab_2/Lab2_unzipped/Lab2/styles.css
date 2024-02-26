@@ -9,6 +9,7 @@
 	padding-right: 45px;
 	padding-top: none;
 	padding-bottom: none;
+	margin: 0;
 }
 
 /* end Flexbox Part 1 */
@@ -19,6 +20,12 @@
 #flex-section2 ul {
 	display: flex;
 	list-style: none;
+	padding: 0;
+	padding-left: 45px;
+	padding-top: none;
+	padding-bottom: none;
+	margin: 0;
+	
 }
 
 #flex-section2 li {
