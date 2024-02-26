@@ -36,6 +36,7 @@
 
 #flex-section2 .item1 {
 	order: 1;
+	margin-left: 0;
 }
 
 #flex-section2 .item2 {
