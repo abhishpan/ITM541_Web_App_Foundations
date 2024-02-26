@@ -53,7 +53,7 @@
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-	display: flex;
+	display: wrap;
 	justify-content: center;
 	align-items: center;
 	height: 100%;	
