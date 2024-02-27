@@ -101,23 +101,28 @@
 /* Grid Part 3 */
 
 #grid-section3 .grid {
-
+	display: grid;
+	column-gap: 10px;
+	row-gap: 10px;
+	grid-template-columns: 1 1 1;
+	grid-template-rows: 100px 300px 100px;
+	grid-template-areas: "header header header" "main main sidebar" "footer footer footer";
 }
 
 #grid-section3 .box1 {
-
+	grid-area: header;
 }
 
 #grid-section3 .box2 {
-
+	grid-area: sidebar;
 }
 
 #grid-section3 .box3 {
-
+	grid-area: main;
 }
 
 #grid-section3 .box4 {
-
+	grid-area: footer;
 }
 
 /* end Grid Part 3 */
